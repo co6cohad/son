@@ -7,7 +7,7 @@
     "theme_color": "#000",
     "description": "You vs 100 Skibidi Toilets",
     "icons": [{
-      "src": "TemplateData/icons/unity-logo-dark.png",
+      "src": "https://cdn.jsdelivr.net/gh/co6cohad/son@main/TemplateData/unity-logo-dark.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
